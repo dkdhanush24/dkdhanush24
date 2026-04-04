@@ -13,7 +13,6 @@ I'm interested in the intersection of **AI/ML**, **embedded systems**, and **ful
 - LLM integration (GPT-4o-mini function-calling, Llama 3 via Groq)
 - Speech-to-text pipelines (Whisper)
 - ML — regression, classification, real-world data cleaning (1.9M row dataset)
-- Prompt engineering, structured JSON extraction from unstructured input
 
 **IoT / Embedded**
 - ESP32 firmware (Arduino C++)
@@ -30,7 +29,7 @@ I'm interested in the intersection of **AI/ML**, **embedded systems**, and **ful
 **Mobile & Frontend**
 - React Native + Expo (TypeScript)
 - Android native (Kotlin + Jetpack Compose)
-- Room Database, ViewModel + Coroutines
+
 
 ---
 
