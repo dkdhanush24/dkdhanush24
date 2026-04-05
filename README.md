@@ -66,7 +66,7 @@ Built this entirely for personal use. Tired of typing out trade notes — now I 
 ---
 
 ### 🧹 Real-World Data Cleaning Pipeline
-> 1.9M rows → 1.7M rows of clean, usable data
+> 6.9M rows → 6.7M rows of clean, usable data
 
 Built a data cleaning pipeline on a large real-world dataset. Handled missing values, duplicates, outliers, format inconsistencies, and reduced noise — entirely self-directed, no mentor.
 
